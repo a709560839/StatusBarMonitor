@@ -7,12 +7,16 @@
 1. 直接安装。
 2. Lsposed启用作用域：系统界面。
 3. 打开App：重启作用域。
+
+# 使用效果：
 <div>
 <img src="https://github.com/a709560839/StatusBarMonitor/blob/main/screenshot/1.jpg" width="266">
 </div>
 <div>
 <img src="https://github.com/a709560839/StatusBarMonitor/blob/main/screenshot/2.jpg" width="266">
 </div>
+
+# App界面：
 <div>
 <img src="https://github.com/a709560839/StatusBarMonitor/blob/main/screenshot/3.png" width="266">
 </div>
