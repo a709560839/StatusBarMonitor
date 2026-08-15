@@ -10,15 +10,15 @@
 
 # 使用效果：
 <div>
-<img src="https://github.com/a709560839/StatusBarMonitor/blob/main/screenshot/1.jpg" width="266">
+<img src="https://github.com/a709560839/StatusBarMonitor/blob/main/screenshot/1.jpg" width="555">
 </div>
 <div>
-<img src="https://github.com/a709560839/StatusBarMonitor/blob/main/screenshot/2.jpg" width="266">
+<img src="https://github.com/a709560839/StatusBarMonitor/blob/main/screenshot/2.jpg" width="555">
 </div>
 
 # App界面：
 <div>
-<img src="https://github.com/a709560839/StatusBarMonitor/blob/main/screenshot/3.png" width="266">
+<img src="https://github.com/a709560839/StatusBarMonitor/blob/main/screenshot/3.png" width="333">
 </div>
 
 # 自测可行版本：
