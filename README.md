@@ -10,6 +10,7 @@
 4. 打开App：重启作用域。
 
 # 使用效果：
+从左到右依次是：CPU使用率(CPU最小-最大频率)，GPU使用率(GPU频率)，RAM使用率，ZRAM使用率，电池温度，功耗，FPS
 <div>
 <img src="https://github.com/a709560839/StatusBarMonitor/blob/main/screenshot/1.jpg" width="555">
 </div>
