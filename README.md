@@ -27,7 +27,7 @@
 
 # 碎碎念：
 目前AI使用常驻su进程cat获取GPU信息，性能弱于scene的守护进程。然后展示的信息和位置没有做成可选项。兄弟们要是fork改好了记得在酷安里@我，我伸手嘿嘿
-# [酷安原帖](https://www.coolapk.com/feed/71718136)
+# [酷安原帖](https://www.coolapk.com/feed/71718136?s=ODg2Nzg0ZWUxMmU4ZWZnNmE4MDJlYWZ6a1651)
 
 # 最后：
 搞机有风险，Magisk救砖模块装了吗(ksu等内核管理器倒是自带救砖)，没装也没事，进twrp文件管理，/data/adb/modules 删对应的模块就行。  
